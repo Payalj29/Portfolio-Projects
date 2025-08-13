@@ -155,4 +155,5 @@ Join [portfolio project]..[Covid Vacinations] vac
 where dea.continent is not null 
 
 select * 
+
 from PercentPopulationVaccinated
